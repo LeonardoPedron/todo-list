@@ -1,0 +1,8 @@
+{
+    "placeholder": "Add note ...",
+    "warning": "Caution !!! The entry field must be filled in to enter the note",
+    "modal": "Delete memo",
+    "description": "Are you sure you want to delete this note? All data on this row will be lost !!!",
+    "decline": "Cancel",
+    "accepet": "Delete"
+}

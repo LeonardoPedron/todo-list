@@ -1,0 +1,8 @@
+{
+    "placeholder": "Entrez avec précision ...",
+    "warning": "Mise en garde !!! Le champ de saisie doit être rempli pour saisir la note",
+    "modal": "Supprimer le mémo",
+    "description": "Voulez-vous vraiment supprimer cette note ? Toutes les données de cette ligne seront perdues !!!",
+    "decline": "Annuler",
+    "accepet": "Effacer"
+}

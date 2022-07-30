@@ -1,0 +1,8 @@
+{
+    "placeholder": "Inserisci appunto ...",
+    "warning": "Attenzione !!! Il campo di inseriemnto deve essere riempito per inserie l'appunto",
+    "modal": "Elimina appunto",
+    "description": "Sei sicuro di voler eliminare questo appunto ? Tutti i dati di questa riga verranno persi !!!",
+    "decline": "Annulla",
+    "accepet": "Elimina"
+}

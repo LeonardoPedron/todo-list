@@ -1,0 +1,8 @@
+{
+    "placeholder": "Entrar con precisión ...",
+    "warning": "Precaución !!! El campo de entrada debe ser llenado para ingresar la nota",
+    "modal": "Eliminar nota",
+    "description": "¿Estás seguro que quieres eliminar esta nota? ¡Se perderán todos los datos de esta fila!",
+    "decline": "Cancelar",
+    "accepet": "Borrar"
+}

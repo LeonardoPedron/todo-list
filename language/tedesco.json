@@ -1,0 +1,8 @@
+{
+    "placeholder": "Genau eingeben",
+    "warning": "Vorsicht !!! Das Eingabefeld muss ausgefüllt werden, um die Notiz einzugeben",
+    "modal": "Notiz löschen",
+    "description": "Möchten Sie diese Notiz wirklich löschen? Alle Daten in dieser Zeile gehen verloren !!!",
+    "decline": "Absagen",
+    "accepet": "Löschen"
+}
